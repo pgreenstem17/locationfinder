@@ -1,6 +1,6 @@
 # PublicSDK
 Public Android and iOS SDK's for the goTenna
-
+pattys editing test
 First read [goTennaSDKIntro.pdf](goTennaSDKIntro.pdf)
 
 ### Contents
